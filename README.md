@@ -1,36 +1,57 @@
-# COVID-19 Case Study — Python
+# COVID-19 Data Analysis
 
 ## Project Overview
 
-This project explores COVID-19 data using Python and Jupyter Notebook. It demonstrates the application of Python for data analysis and the exploration of patterns and trends in a real-world dataset.
+This project explores COVID-19 datasets using Python to analyse confirmed cases, recoveries, and deaths across countries and regions.
 
-## Objectives
+The project involves data cleaning, transformation, aggregation, and time-series analysis to examine patterns and trends in the available data.
 
-* Explore and understand the dataset.
-* Apply Python to perform data analysis.
-* Identify patterns and trends in the available data.
-* Practise analytical thinking and data interpretation.
+## Project Objectives
+
+- Clean and transform COVID-19 datasets.
+- Handle missing values and correct data types.
+- Reshape and merge datasets for analysis.
+- Analyse confirmed cases, recoveries, and deaths across countries and regions.
+- Examine daily trends, peak infection periods, and monthly summaries.
+- Present analytical findings through data visualisations.
 
 ## Tools and Technologies
 
-* **Python**
-* **Jupyter Notebook**
-* **GitHub**
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Key Analysis Areas
+
+### 1. Data Cleaning and Transformation
+Cleaned and transformed datasets by handling missing values, correcting data types, reshaping data, and merging datasets.
+
+### 2. Geographic Analysis
+Analysed confirmed cases, recoveries, and deaths across countries and regions using grouping and aggregation.
+
+### 3. Time-Series Analysis
+Examined daily trends, peak infection periods, and monthly summaries to explore changes over time.
+
+### 4. Data Visualisation
+Created visualisations to present patterns and trends identified during the analysis.
+
+## Skills Demonstrated
+
+- Python programming
+- Data cleaning and transformation
+- Pandas data manipulation
+- Data aggregation
+- Dataset merging and reshaping
+- Time-series analysis
+- Data visualisation
 
 ## Project File
 
-* `COVID-19 case study I.ipynb` — Jupyter Notebook containing the case study.
-
-## Key Skills Demonstrated
-
-* Python programming
-* Data exploration
-* Analytical thinking
-* Working with Jupyter Notebook
+- `COVID-19 case study I.ipynb` — Jupyter Notebook containing the project analysis.
 
 ## How to View the Project
 
-Open the `COVID-19 case study I.ipynb` file in this repository to explore the notebook and its analysis.
+Open the Jupyter Notebook in this repository to review the code and analysis. You can download the notebook and open it using Jupyter Notebook or JupyterLab.
 
 ## Author
 
